@@ -1,0 +1,2 @@
+rootProject.name='Add voice capabilities'
+include ':app'
